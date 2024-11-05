@@ -12,9 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vite,git,github,vscode,mongodb,pinia)](https://skillicons.dev)
 
 
-### 🍏 Contribution
-[!['s GitHub | Stats](https://stats.quira.sh//github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1caihaoyuan&layout=compact&theme=tokyonight)
 
 ![Visitor Count](https://profile-counter.glitch.me/1caihaoyuan/count.svg)
