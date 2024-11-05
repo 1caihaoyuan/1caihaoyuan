@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 This is @HaoyuanCai
 
-<!--
-**1caihaoyuan/1caihaoyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X (Twitter)](https://img.shields.io/badge/-ProgramZmh-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/caihaoyuan1104) [![WeChat](https://img.shields.io/badge/chynov04-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./) [![email](https://img.shields.io/badge/-1caihaoyuan@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:1caihaoyuan@gmail.com)
 
-Here are some ideas to get you started:
+### 🔨 Skills
+❄️ **Front End** \ ☀️ **Backend**(**ing..**)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🍭 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=rust,nodejs,vue,html,css,js,ts,less,scss)](https://skillicons.dev)
+
+### 🔧 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=vite,git,github,vscode,mongodb,pinia)](https://skillicons.dev)
+
+
+### 🍏 Contribution
+[!['s GitHub | Stats](https://stats.quira.sh//github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1caihaoyuan&layout=compact&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/1caihaoyuan/count.svg)
+
